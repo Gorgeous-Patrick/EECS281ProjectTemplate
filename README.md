@@ -86,7 +86,6 @@ If you prefer to work online, you can use GitHub Codespaces to create and develo
 ### Step 1: Enable Codespaces
 1. Navigate to your repository on GitHub.
 2. Click the **"Code"** button, then select the **"Codespaces"** tab.
-3. If you don’t see the tab, ask your GSI for assistance to enable it on your GitHub account.
 
 ### Step 2: Start a Codespace
 1. Under the Codespaces tab, click **"Create codespace on main"**.
@@ -116,18 +115,12 @@ Once the Codespace is ready, you’ll be in a VS Code-like environment in your b
 3. **Build Errors**
    - Ensure you have a stable internet connection, as Docker needs to download images during the build process.
 
-If you encounter other issues, feel free to reach out to your GSI for assistance or post in the course discussion forum.
+If you encounter other issues, feel free to reach out for assistance.
 
 ---
 
 ## Notes
-- This devcontainer setup is **optional** and **experimental**. Use it only if you face issues with your local environment setup.
+- This devcontainer setup is **optional** and **experimental**. It hopefully helps you when you have problems setting up your local environment. Feel free to give it a try.
 - Always ensure your work is backed up, as this environment does not automatically sync files outside the container unless you explicitly save them.
 
 Happy Coding!
-
----
-
-### License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
